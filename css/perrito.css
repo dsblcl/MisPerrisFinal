@@ -41,7 +41,7 @@ float: right;
 {
     width: 60px;
     position:relative ;
-    right: 500px;
+    right: 493px;
     top: 500px;
 }
 
@@ -55,18 +55,18 @@ float: right;
 
 .img-insta
 {
-    width: 70px;
+    width: 60px;
     position:relative ;
-    right: 300px;
+    right: 290px;
     top: 500px;
 }
 
 .img-correo
 {
-    width: 55px;
+    width: 60px;
     position:relative ;
     right: 100px;
-    top: 505px;
+    top: 500px;
 }
 
 
