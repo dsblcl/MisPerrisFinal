@@ -10,17 +10,18 @@ main{
 width: 1200px;
 position:relative ;
 right: -400px;
-background:#7fc2af;
+background:#6dccaa;
 }
 .content-one{
     width: 100%;
+    clear:both;
     
 }
 
 .content-portada{
     width: 100%;
-    height: 900px;
-    background: #7fc2af;
+    height: 600px;
+    background: #6dccaa;
     margin-top: -550px;
 
 }
@@ -86,6 +87,109 @@ float: right;
     margin-left: 50px ;
     margin-top: -50px;
 }
+
+
+.content-fondo 
+{
+background: white;
+width: 100%;
+height: 600px;
+
+}
+
+.content-imagen22
+{
+    width: 49%;
+    height: 400px;
+    background: white ;
+    float: left
+}
+
+
+.content-comida
+{
+    width: 50%;
+    height: 555px;
+    background: white(89, 0, 255) ;
+  
+float: right;
+
+
+}
+
+.content-rescate
+{
+margin-left: 62%;
+margin-top:3%
+
+}
+
+.texto-largo2
+{
+  text-align: right; 
+}
+
+.content-text 
+{
+  
+    text-align: right; 
+}
+
+.content-textol
+{
+    font-size: 90%;
+    font-weight: normal;
+    text-align: right; 
+    margin-top: 3%;
+    color: gray;
+    font-family: 'Franklin Gothic Medium';
+    
+
+}
+
+.content-textol2
+{
+    font-size: 90%;
+    font-weight: normal; 
+    margin-top: 3%;
+    color: gray;
+    font-family: 'Franklin Gothic Medium';
+    
+
+}
+.img-comida 
+{
+    margin-top: 1%
+}
+
+.content-boton
+{
+    margin-top: 3%;  
+    height: 80px;
+}
+
+.boton_1{
+    
+    text-decoration: none;
+    padding: 2px;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: initial;
+    color: #050505;
+    background-color: #ffffff;
+    border-radius: 0px;
+    border: 2px double #000000;
+   
+  }
+  .boton_1:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+
+
 @media screen and (max-width:1300px)
 {
  
@@ -95,7 +199,10 @@ float: right;
     position:relative ;
     right: -400px;
     background:#7fc2af;
-    
-
+  
     }
+
+
+
+
 }
